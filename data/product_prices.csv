@@ -1,0 +1,31 @@
+product_key,product_name,brand,category,model_number,retailer,listing_reference,listed_price_inr,original_price_inr,rating,review_count,in_stock,captured_date
+SONY-WHCH520,Sony WH-CH520 Wireless Headphones,Sony,Audio,WH-CH520,Amazon India,AMZ-WHCH520,3988.00,5990.00,4.3,18421,1,2026-05-20
+SONY-WHCH520,Sony WH-CH520 Wireless Headphones,Sony,Audio,WH-CH520,Flipkart,FLP-WHCH520,3990.00,5990.00,4.3,10322,1,2026-05-20
+SONY-WHCH520,Sony WH-CH520 Wireless Headphones,Sony,Audio,WH-CH520,Croma,CRM-WHCH520,4490.00,5990.00,4.2,814,1,2026-05-20
+LOG-M331,Logitech M331 Silent Plus Mouse,Logitech,Accessories,M331,Amazon India,AMZ-M331,899.00,1295.00,4.4,32400,1,2026-05-20
+LOG-M331,Logitech M331 Silent Plus Mouse,Logitech,Accessories,M331,Flipkart,FLP-M331,879.00,1295.00,4.4,17630,1,2026-05-20
+LOG-M331,Logitech M331 Silent Plus Mouse,Logitech,Accessories,M331,Reliance Digital,RD-M331,995.00,1295.00,4.2,302,1,2026-05-20
+SAM-T7-1TB,Samsung T7 Portable SSD 1 TB,Samsung,Storage,MU-PC1T0T,Amazon India,AMZ-T7-1TB,8999.00,12999.00,4.7,8122,1,2026-05-20
+SAM-T7-1TB,Samsung T7 Portable SSD 1 TB,Samsung,Storage,MU-PC1T0T,Flipkart,FLP-T7-1TB,9299.00,12999.00,4.6,4760,1,2026-05-20
+SAM-T7-1TB,Samsung T7 Portable SSD 1 TB,Samsung,Storage,MU-PC1T0T,Croma,CRM-T7-1TB,9499.00,12999.00,4.5,128,1,2026-05-20
+HP-15S-I5,HP 15s 12th Gen i5 Laptop,HP,Computers,15S-FQ5111TU,Amazon India,AMZ-HP15S,51990.00,62999.00,4.1,722,1,2026-05-20
+HP-15S-I5,HP 15s 12th Gen i5 Laptop,HP,Computers,15S-FQ5111TU,Flipkart,FLP-HP15S,50990.00,62999.00,4.2,1281,1,2026-05-20
+HP-15S-I5,HP 15s 12th Gen i5 Laptop,HP,Computers,15S-FQ5111TU,Croma,CRM-HP15S,53490.00,62999.00,4.0,91,1,2026-05-20
+JBL-FLIP6,JBL Flip 6 Portable Bluetooth Speaker,JBL,Audio,JBLFLIP6BLK,Amazon India,AMZ-FLIP6,8999.00,12999.00,4.5,5102,1,2026-05-20
+JBL-FLIP6,JBL Flip 6 Portable Bluetooth Speaker,JBL,Audio,JBLFLIP6BLK,Flipkart,FLP-FLIP6,8499.00,12999.00,4.5,3802,1,2026-05-20
+JBL-FLIP6,JBL Flip 6 Portable Bluetooth Speaker,JBL,Audio,JBLFLIP6BLK,Reliance Digital,RD-FLIP6,9499.00,12999.00,4.4,96,1,2026-05-20
+PHL-AF3000,Philips Air Fryer 4.1 L,Philips,Kitchen Appliances,HD9200-90,Amazon India,AMZ-AF3000,6299.00,9995.00,4.4,9230,1,2026-05-20
+PHL-AF3000,Philips Air Fryer 4.1 L,Philips,Kitchen Appliances,HD9200-90,Flipkart,FLP-AF3000,5999.00,9995.00,4.3,6102,1,2026-05-20
+PHL-AF3000,Philips Air Fryer 4.1 L,Philips,Kitchen Appliances,HD9200-90,Croma,CRM-AF3000,6799.00,9995.00,4.3,206,1,2026-05-20
+PRE-KETTLE,Prestige Electric Kettle 1.5 L,Prestige,Kitchen Appliances,PKOSS-1.5,Amazon India,AMZ-PKOSS,799.00,1445.00,4.2,44581,1,2026-05-20
+PRE-KETTLE,Prestige Electric Kettle 1.5 L,Prestige,Kitchen Appliances,PKOSS-1.5,Flipkart,FLP-PKOSS,749.00,1445.00,4.2,28229,1,2026-05-20
+PRE-KETTLE,Prestige Electric Kettle 1.5 L,Prestige,Kitchen Appliances,PKOSS-1.5,Reliance Digital,RD-PKOSS,899.00,1445.00,4.0,118,0,2026-05-20
+MI-POWER20K,Xiaomi 20000 mAh Power Bank,Xiaomi,Accessories,PB2022ZM,Amazon India,AMZ-MIPB20,1999.00,2999.00,4.3,6511,1,2026-05-20
+MI-POWER20K,Xiaomi 20000 mAh Power Bank,Xiaomi,Accessories,PB2022ZM,Flipkart,FLP-MIPB20,1899.00,2999.00,4.2,8812,1,2026-05-20
+MI-POWER20K,Xiaomi 20000 mAh Power Bank,Xiaomi,Accessories,PB2022ZM,Croma,CRM-MIPB20,2199.00,2999.00,4.1,215,1,2026-05-20
+DELL-S2421,Dell 24 Inch FHD Monitor,Dell,Monitors,S2421HN,Amazon India,AMZ-S2421,10999.00,16499.00,4.4,2232,1,2026-05-20
+DELL-S2421,Dell 24 Inch FHD Monitor,Dell,Monitors,S2421HN,Flipkart,FLP-S2421,10799.00,16499.00,4.3,1429,1,2026-05-20
+DELL-S2421,Dell 24 Inch FHD Monitor,Dell,Monitors,S2421HN,Croma,CRM-S2421,11499.00,16499.00,4.2,84,1,2026-05-20
+CAN-E4570,Canon PIXMA E4570 Printer,Canon,Printers,E4570,Amazon India,AMZ-E4570,5799.00,7595.00,4.0,1940,1,2026-05-20
+CAN-E4570,Canon PIXMA E4570 Printer,Canon,Printers,E4570,Flipkart,FLP-E4570,5649.00,7595.00,4.1,1107,1,2026-05-20
+CAN-E4570,Canon PIXMA E4570 Printer,Canon,Printers,E4570,Reliance Digital,RD-E4570,5999.00,7595.00,3.9,72,1,2026-05-20
